@@ -1,0 +1,3 @@
+RF001 - Criar conta  - O sistema deve permitir a criação de contas com os campos de nome, telefone, email e senha.
+RF002 - Manter conta - O sistema deve permitir realizar 
+
